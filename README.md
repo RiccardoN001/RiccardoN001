@@ -1,4 +1,4 @@
-# Riccardo Nicolni
+# Riccardo Nicolini
 
 **`Software Engineer`**
 

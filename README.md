@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
 
-I'm a Software Engineer currently pursuing a Master’s degree in Data Science, with interest in Machine Learning and Deep Learning.
+I'm a Software Engineer currently pursuing a Master’s degree in Data Science.
 
 ### 🧰 Languages and Tools
 

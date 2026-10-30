@@ -2,7 +2,7 @@
 
 **Cloud Engineer @ Reply Cloud9 · Machine Learning · Computer Vision · Data Engineering**
 
-M.Sc. in Computer and Robotics Engineering (Data Science track, 110/110 cum laude) from the University of Perugia.
+M.Sc. in Computer and Robotics Engineering (Data Science track) from the University of Perugia.
 I design cloud platforms and the machine learning systems that run on them: from research and benchmarking of deep learning models to containerized training, serving and monitoring on cloud-native infrastructure.
 
 - ☁️ Cloud Engineer at **Reply Cloud9**, working on cloud platforms and solution architecture

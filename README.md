@@ -43,7 +43,7 @@ I design cloud platforms and the machine learning systems that run on them: from
   <img alt="Docker" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />&nbsp;
   <img alt="Terraform" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />&nbsp;
   <img alt="Ansible" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />&nbsp;
-  <img alt="AWS" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />&nbsp;
+  <img alt="AWS" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" />&nbsp;
   <img alt="GitHub Actions" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />&nbsp;
   <img alt="FastAPI" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
 </p>

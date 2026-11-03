@@ -2,10 +2,10 @@
 
 **Cloud Engineer @ Reply Cloud9 · Machine Learning · Computer Vision · Data Engineering**
 
-M.Sc. in Computer and Robotics Engineering (Data Science track) from the University of Perugia.
+M.Sc. in Computer and Robotics Engineering from the University of Perugia.
 I design cloud platforms and the machine learning systems that run on them: from research and benchmarking of deep learning models to containerized training, serving and monitoring on cloud-native infrastructure.
 
-- ☁️ Cloud Engineer at **Reply Cloud9**, working on cloud platforms and solution architecture
+- ☁️ Cloud & AI Engineer at **Reply Cloud9**, working on cloud platforms and solution architecture
 - 🔬 Former Research Assistant at **ISARlab** (University of Perugia), working on visual localization for AR/MR
 - 🛠️ Building an **LLM-based document triage service** on AWS Bedrock in my spare time
 
@@ -15,13 +15,11 @@ I design cloud platforms and the machine learning systems that run on them: from
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Kubernetes HPO Service**](https://github.com/RiccardoN001/REPO-NAME) | Azure ML-inspired platform on a 3-node Kubernetes cluster provisioned with Kubespray and Ansible. A FastAPI control plane launches one training Job per configuration, collects metrics on shared NFS storage and serves the best model over HTTP. | Kubernetes, Ansible, FastAPI, Docker, PyTorch |
+| [**Visual Localization Benchmark**](https://github.com/RiccardoN001/visual-localization-benchmark) | 6-DoF visual localization against mesh-rendered 3D maps: global retrieval, 2D-2D matching, RANSAC geometric reranking and PnP pose estimation. Benchmarks 6 retrievers (DINOv2/v3, MegaLoc, SALAD, AnyLoc, NetVLAD) against 7 matchers (LightGlue, SuperGlue, RoMa v2, OmniGlue...) on 10 scenes, with accuracy, latency and GPU memory, on HPC with SLURM. | PyTorch, OpenCV, SLURM |
 | **LLM Document Triage** *(in development)* | Classifies and routes certified emails: deterministic rules first, LLM fallback, human-review queue. Labelled evaluation set runs as a regression suite on every prompt or model change; per-request token cost tracking. | AWS Bedrock, Docker, Terraform, GitHub Actions |
 | [**Medical Knowledge Graph**](https://github.com/RiccardoN001/medical-knowledge-graph) | Distributed ETL on OpenFDA data with LLM inference in the loop: SciSpacy NER and Llama 3 triple extraction, loaded into Neo4j for querying. | Spark, Hadoop, Llama 3, Neo4j |
 | [**Monocular Depth Estimation**](https://github.com/RiccardoN001/Monocular_Depth_Estimation) | Encoder-decoder network predicting dense depth from a single RGB image, with full data pipeline, training and evaluation. | PyTorch |
 | [**Phishing Detector**](https://github.com/RiccardoN001/phishing-detector) | Recall-optimized classifier for malicious URLs from 30 features. | scikit-learn |
-
-**Research:** end-to-end visual localization pipeline (3D map reconstruction, image retrieval, 2D-3D matching, 6-DoF pose with PnP + RANSAC) and a large-scale benchmark of DINOv2/DINOv3, SuperGlue, LightGlue and OmniGlue on Oxford Spires and LaMAR, reaching **92.4% recall at (1 m, 5°)**.
 
 ---
 
@@ -71,6 +69,6 @@ I design cloud platforms and the machine learning systems that run on them: from
 
 ### 📫 Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/riccardo-nicolini1) · riccardo.nicolini@outlook.com
+[LinkedIn](https://www.linkedin.com/in/riccardo-nicolini) · riccardo.nicolini@outlook.com
 
-🇮🇹 Italian (native) · 🇬🇧 English (fluent)
+🇮🇹 Italian (native) · 🇬🇧 English (fluent) · 🇫🇷 French (learning)

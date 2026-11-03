@@ -1,11 +1,11 @@
 # Hi, I'm Riccardo Nicolini 👋
 
-**Cloud Engineer @ Reply Cloud9 · Machine Learning · Computer Vision · Data Engineering**
+**Software Engineer · Cloud · AI & Machine Learning · Data**
 
 M.Sc. in Computer and Robotics Engineering from the University of Perugia.
-I design cloud platforms and the machine learning systems that run on them: from research and benchmarking of deep learning models to containerized training, serving and monitoring on cloud-native infrastructure.
+I work where cloud infrastructure meets AI: I design and automate cloud platforms, and I build the machine learning systems that run on them, from research and benchmarking of deep learning models to production-ready services.
 
-- ☁️ Cloud & AI Engineer at **Reply Cloud9**, working on cloud platforms and solution architecture
+- ☁️ Incoming **Cloud Engineer** at **Reply Cloud9** (starting November 2026)
 - 🔬 Former Research Assistant at **ISARlab** (University of Perugia), working on visual localization for AR/MR
 - 🛠️ Building an **LLM-based document triage service** on AWS Bedrock in my spare time
 
@@ -25,7 +25,7 @@ I design cloud platforms and the machine learning systems that run on them: from
 
 ### 🧰 Tech stack
 
-**Machine learning & computer vision**
+**AI, machine learning & computer vision**
 <p>
   <img alt="Python" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;
   <img alt="PyTorch" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />&nbsp;
@@ -35,13 +35,13 @@ I design cloud platforms and the machine learning systems that run on them: from
   <img alt="ROS" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ros/ros-original.svg" />
 </p>
 
-**MLOps & cloud**
+**Cloud, DevOps & MLOps**
 <p>
+  <img alt="AWS" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" />&nbsp;
   <img alt="Kubernetes" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />&nbsp;
   <img alt="Docker" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />&nbsp;
   <img alt="Terraform" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />&nbsp;
   <img alt="Ansible" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />&nbsp;
-  <img alt="AWS" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" />&nbsp;
   <img alt="GitHub Actions" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />&nbsp;
   <img alt="FastAPI" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
 </p>
@@ -71,4 +71,4 @@ I design cloud platforms and the machine learning systems that run on them: from
 
 [LinkedIn](https://www.linkedin.com/in/riccardo-nicolini) · riccardo.nicolini@outlook.com
 
-🇮🇹 Italian (native) · 🇬🇧 English (fluent) · 🇫🇷 French (learning)
+🇮🇹 Italian (native) · 🇬🇧 English (fluent)
